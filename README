@@ -1,0 +1,5 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1276
+
+auto scroll the screen:
+when there are still  certain lines between current line and the top or bottom boundry of the current window, the screen would scroll automatic, so that you can see the context of current line always.
+when in insert mode, if current line is quite near the bottom boundry of current window, and if you press enter, some extra blank spaces would appear so that the current line not  be too close to the boundry.
